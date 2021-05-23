@@ -67,4 +67,4 @@ The script goes through the steps below.
 
 ## Requirements
 
-Relevant package installs are the first cell within the Jupyter Notebook. 
+Relevant package requirements are the first cell within the Jupyter Notebook. 
