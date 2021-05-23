@@ -4,7 +4,7 @@ Please see the following for an introduction to the k-Nearest Neighbors Machine 
 
 [https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
 
-This is an exmaple of a content based Recommender system. 
+This is an exmaple of a content based, k-nearest neighbours Recommender system. "K-NN is a lazy learner because it doesn’t learn a discriminative function from the training data but “memorizes” the training dataset instead" [ref](https://sebastianraschka.com/faq/docs/lazy-knn.html). Unsupervised in this context. 
 
 >Approaches
 >Recommender systems can be loosely broken down into three categories: content based systems, collaborative filtering systems, and hybrid systems (which use a combination of the other two).
