@@ -16,7 +16,7 @@ This is an exmaple of a content based Recommender system.
 
 ![reco](https://user-images.githubusercontent.com/81447748/119277351-06d7ae80-bc17-11eb-82cc-7dd4878afe00.png)
 
-The following resource shows a Item-Based Collaborative Filtering Recommender System. 
+The following resource shows an Item-Based Collaborative Filtering Recommender System. 
 
 [https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea](https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea)
 
