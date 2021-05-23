@@ -59,7 +59,7 @@ The script goes through the steps below.
  5. Appends to the feature vector, additional features 'isAdult', 'startYear', 'runtimeMinutes', 'averageRating', 'numVotes'
  6. Uses the sklearn MinMaxScaler() for scaling features as it scales the values from 0–1
  7. Fits the NearestNeighbors model with default distance metric ’minkowski’ and ‘brute’ will use a brute-force search
- 8. Test some the top 5 most voted movies 
+ 8. Test the top 5 most voted movies 
 
 ## Example output 
 
